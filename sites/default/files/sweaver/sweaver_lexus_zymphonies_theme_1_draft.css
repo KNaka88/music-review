@@ -1,4 +1,10 @@
 .content .block-image {
   text-align: center;
+  color: #0a090a;
+  background-color: #000000;
+}
+
+#page-wrap #container {
+  background-color: #ffffff;
 }
 
