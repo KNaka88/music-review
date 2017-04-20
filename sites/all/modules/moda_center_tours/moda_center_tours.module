@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Moda Center Tours feature.
+ */
+
+include_once 'moda_center_tours.features.inc';
